@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9426427.css",
+    "main.js": "/static/js/main.4019edda.js",
+    "static/media/imageface.png": "/static/media/imageface.9bdd2eab0793a91d40d1.png",
+    "static/media/aboutimage.jpg": "/static/media/aboutimage.643c7a022fe4f40b73fc.jpg",
+    "static/media/Resume_Nikhil.pdf": "/static/media/Resume_Nikhil.e4655a404c20f072bfa4.pdf",
+    "static/media/gwsoc.png": "/static/media/gwsoc.a19c6c76408805d04bc0.png",
+    "static/media/gce.jpeg": "/static/media/gce.7c1e0a1f3500f32d1cd2.jpeg",
+    "static/media/pyt.png": "/static/media/pyt.38db236dc8314d5cbc21.png",
+    "static/media/27580.png": "/static/media/27580.c8f4f9a68cce80ec699c.png",
+    "static/media/web.png": "/static/media/web.bac2cec039d817e0b01a.png",
+    "static/media/ml.png": "/static/media/ml.774247abfeecdc47e7d1.png",
+    "static/media/lpu.jpg": "/static/media/lpu.c78a2637afc6baa40c18.jpg",
+    "index.html": "/index.html",
+    "main.f9426427.css.map": "/static/css/main.f9426427.css.map",
+    "main.4019edda.js.map": "/static/js/main.4019edda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9426427.css",
+    "static/js/main.4019edda.js"
+  ]
+}
