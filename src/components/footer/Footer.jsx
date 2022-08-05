@@ -7,7 +7,7 @@ import {FaTwitterSquare} from 'react-icons/fa'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer_logo'>Name</a>
+      <a href="#" className='footer_logo'>Saurabh Kumar</a>
       
       <ul className='permalinks'>
         <li><a href="#">Home</a> </li>
