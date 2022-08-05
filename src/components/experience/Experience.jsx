@@ -5,7 +5,7 @@ function Experience() {
   return (
     <section id='experience'>
       <h5>What Skills I have</h5>
-      <h2>My Experience</h2>
+      <h2>My Skills</h2>
       <div className='container experience_container'>
         <div className="experience_frontend">
             <h3>FrontEnd Development</h3>
@@ -71,19 +71,13 @@ function Experience() {
                  </div>
               </article>
 
-              <article className='experience_details'>
-                 <BsPatchCheckFill className='experience_details-icons'></BsPatchCheckFill>
-                 <div>
-                   <h4>Java</h4>
-                 <small className='text-light'>Intermediate</small>
-                 </div>
-              </article>
+              
 
               <article className='experience_details'>
                  <BsPatchCheckFill className='experience_details-icons'></BsPatchCheckFill>
                 <div>
                    <h4>Python</h4>
-                 <small className='text-light'>Intermediate</small>
+                 <small className='text-light'>Beginner</small>
                 </div>
               </article>
 
@@ -103,20 +97,7 @@ function Experience() {
                  </div>
               </article>
 
-              <article className='experience_details'>
-                 <BsPatchCheckFill className='experience_details-icons'></BsPatchCheckFill>
-                <div> <h4>Google Cloud Platform</h4>
-                 <small className='text-light'>Intermediate</small></div>
-
-              </article>
-
-              <article className='experience_details'>
-                 <BsPatchCheckFill className='experience_details-icons'></BsPatchCheckFill>
-                <div>
-                   <h4>Microsoft Azure</h4>
-                 <small className='text-light'>Beginner</small>
-                </div>
-              </article>
+              
               
             </div>
         </div> 
@@ -128,7 +109,7 @@ function Experience() {
               <article className='experience_details'>
                  <BsPatchCheckFill className='experience_details-icons'></BsPatchCheckFill>
                  <div>
-                   <h4>Machine Learning</h4>
+                   <h4>Cyber Security</h4>
                  <small className='text-light'>Intermediate</small>
                  </div>
               </article>
@@ -136,7 +117,7 @@ function Experience() {
               <article className='experience_details'>
                  <BsPatchCheckFill className='experience_details-icons'></BsPatchCheckFill>
                  <div>
-                   <h4>Artificial Intelligence </h4>
+                   <h4>Web Development</h4>
                  <small className='text-light'>Intermediate</small>
                  </div>
               </article>
@@ -152,7 +133,7 @@ function Experience() {
               <article className='experience_details'>
                  <BsPatchCheckFill className='experience_details-icons'></BsPatchCheckFill>
                 <div>
-                   <h4>Tableau</h4>
+                   <h4>Ethical Hacking</h4>
                  <small className='text-light'>Intermediate</small>
                 </div>
               </article>

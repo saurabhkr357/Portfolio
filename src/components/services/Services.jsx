@@ -9,84 +9,75 @@ const Services = () => {
       <div className='cointainer service_container'>
         <article className="services">
           <div className="service_head">
-            <h3>Alexa Skill</h3>
+            <h3>Python 3 Ethical Hacking</h3>
           </div>
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Created Alexa Skill Game </p>
+              <p>Code pentesting tools. </p>
             </li>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>It is basically Rock , Paper ,Scissor Game </p>
+              <p>Learnt to discover vulnerabilities. </p>
             </li>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p> Gives user to choose any one from Rock , Paper , Scissor and takes voice input and randomy picks any one by itself and matches according to rule. </p>
+              <p>Sniff on data.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>More than 2lakhs+ customer till date and still counting. </p>
+              <p>Create a python keylogger. </p>
             </li>
-            <li>
-              <BiCheck className='service_list-icon'></BiCheck>
-              <p><a href="https://www.amazon.in/nikhil-kumar-game/dp/B07W8CRPPJ/ref=sr_1_1?crid=GWM9YLYOOYU9&keywords=game+by+nikhil+kumar&qid=1650994477&s=digital-skills&sprefix=%2Calexa-skills%2C373&sr=1-1  " target='_blank' >  Click here for demo </a></p>
-            </li>
+            
           </ul>
         </article>
         {/* END OF ANOHTET */}
         <article className="services">
           <div className="service_head">
-            <h3>Portfolio Website</h3>
+            <h3>Browsing Games</h3>
           </div>
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Created my portfolio website </p>
+              <p>It's a project based on web development. </p>
             </li>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Technologies used :  HTML , CSS , JavaScript , React , Emailjs </p>
+              <p>Fetching API and displaying the contents of various games. </p>
             </li>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Viewers can view my portfolio at one place in a attractive way . They can also download my Resume from the website </p>
+              <p>On this webpage, you can browse different games and their properties like platforms, genres etc.</p>
             </li>
+            
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Users can connect and send email easily using connect me option and just writing the message in text box and send message option  </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon'></BiCheck>
-              <p><a href='#'>Demo</a> </p>
+              <p><a href="https://saurabhkr357.github.io/Browsing-games/" target='_blank' >  Click here for demo </a></p>
             </li>
           </ul>
         </article>
         {/* end of one UI */}
         <article className="services">
           <div className="service_head">
-            <h3>Machine Learning Project</h3>
+            <h3>Personal Portfolio</h3>
           </div>
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Created project on HR CHURN PREDICTION </p>
+              <p>My personal portfolio project where I built my own professional webpage using web developer tools.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Technology Used : Data Cleaning , Data collection, ML algorithms </p>
+              <p>Tools used--> Nodejs, ReactJs, HTML, CSS, JavaScript. </p>
             </li>
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Created a Alogritm to predict whether a candidate Applying for the job will accept the job over after the recruitment process is over. </p>
+              <p> Viewers can view my portfolio at one place in an attractive way, download my resume, connect with me on various platforms using the links provided on the site.</p>
             </li>
+            
             <li>
               <BiCheck className='service_list-icon'></BiCheck>
-              <p>Used ETL process to clean the collected data and then used various ML algorithm to predict. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon'></BiCheck>
-              <p><a href='https://github.com/nikhil2222/-HR-CHURN-PREDICTION' target='_blank' > Code Link </a></p>
+              <p><a href="" target='_blank' >  Click here for demo </a></p>
             </li>
           </ul>
         </article>

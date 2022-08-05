@@ -1,7 +1,7 @@
 import React from 'react'
 import './Testimonials.css'
 import avtr1 from '../../assests/lpu.jpg'
-import avtr2 from '../../assests/hcs.jpg'
+
 
 // import Swiper core and required modules
 import {  Pagination } from 'swiper';
@@ -21,16 +21,16 @@ const data = [
     year:'2019-2023'
   },
   {
-    avatar: avtr2,
-    name:'Holy Cross School',
+    avatar: avtr1,
+    name:'Modern Academy, Gaya',
     review:'Intermediate (Science)',
-    year:'2017-2019'
+    year:'2017-2018'
   },
   {
-    avatar: avtr2,
-    name:'Holy Cross School',
+    avatar: avtr1,
+    name:'Army public School, Gaya',
     review:'Matriculation',
-    year:'2015-2017'
+    year:'2015-2016'
   }
 ]
 

@@ -31,22 +31,22 @@ const Contact = () => {
           <article className='contact_option'>
             <MdOutlineEmail className='contact_option-icon'></MdOutlineEmail>
             <h4>Email</h4>
-            <h5>nikhilhumai@gmail.com</h5>
-            <a href="mailto:nikhilhumai@gmail.com">Send A message</a>
+            <h5>saurabhkr357@gmail.com</h5>
+            <a href="bb">Send A message</a>
           </article>
 
           <article className='contact_option'>
             <BsLinkedin className='contact_option-icon'></BsLinkedin>
             <h4>LinkedIN</h4>
-            <h5>Nikhil kumar</h5>
-            <a href="https://www.linkedin.com/in/nikhilkumar2206/" target='_blank'>Lets Connect</a>
+            <h5>saurabhkumar468384195</h5>
+            <a href="https://www.linkedin.com/in/saurabh-kumar-468384195/" target='_blank'>Lets Connect</a>
           </article>
 
           <article className='contact_option'>
             <BsWhatsapp className='contact_option-icon'></BsWhatsapp>
             <h4>Whatsapp</h4>
-            <h5>Nikhil Kumar</h5>
-            <a href="https://api.whatsapp.com/send?phone=+917340996818" target='_blank'>Send A message</a>
+            <h5>7489530796</h5>
+            <a href="https://web.whatsapp.com/" target='_blank'>Send A message</a>
           </article>
         </div>
         {/* end of contact options */}

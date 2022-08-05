@@ -1,18 +1,19 @@
 import React from 'react'
 import './About.css'
-import ME from '../../assests/aboutimage.jpg'
+
 import {FaAward} from 'react-icons/fa'
 import {BiGitRepoForked} from 'react-icons/bi'
 import {VscFolderOpened} from 'react-icons/vsc'
+import Me from '../../assests/imageface.png';
 const About = () => {
   return (
     <section id='about'>
-      <h5>Get to know</h5>
+      <h5>Get to know more</h5>
       <h2 >About Me</h2>
       <div className="container about_container">
         <div className='about_me'>
           <div className="about_me-image">
-            <img src={ME} alt="About Image"/>
+            <img src={Me} alt="About Image"/>
           </div>
           </div>
         <div className="about_content">
@@ -20,25 +21,24 @@ const About = () => {
            <article className='about_card'>
              <FaAward className='about_icon'></FaAward>
               <h5>Experience</h5>
-              <small>1+ years Working</small>
+              <small>Fresher</small>
                
-           </article>
+              </article>
            <article className='about_card'>
              <BiGitRepoForked className='about_icon'></BiGitRepoForked>
-              <h5>Contributions</h5>
-              <small>146+</small>
+              <h5>Certifications</h5>
+              <small>4+</small>
                
            </article>
            <article className='about_card'>
              <VscFolderOpened className='about_icon'></VscFolderOpened>
               <h5>Projects</h5>
-              <small>10+ personal Projects</small>
+              <small>5+ personal Projects</small>
                
            </article>
          </div>
          <div className="para">
-             <p >Open Source Contributor in 10+ projects during hactoberfest , Contributor in GirlScript Winter of Contributing , Member of 3 Months Google
-                  Cloud Readiness Programme . I've worked with various types of personal projects and have mastered multiple programming languages and coding as well as various cloud technologies like AWS, GCP. Enthusiast to learn, grow and excel .</p>
+             <p >Enthusiastic developer and security analyst, eager to contribute to team success through hard work and excellent communication and interpersonal skills. Motivated to learn, adapt, grow and excel along with my organization towards fulfilment of the organizational vision.</p>
 
          </div>
          <div className="button">
